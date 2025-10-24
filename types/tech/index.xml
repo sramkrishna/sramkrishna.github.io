@@ -23,21 +23,6 @@ and Claude. Optimizing the local LLM usecase will be priority.&lt;/p&gt;
 &lt;h3 id="impact"&gt;Impact&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Show usefulness of an AI workflow on Linux&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>AI-Powered Development Assistant</title><link>https://portfolio.ramkrishna.me/projects/ai-assistant/</link><pubDate>Thu, 16 Oct 2025 00:00:00 +0000</pubDate><guid>https://portfolio.ramkrishna.me/projects/ai-assistant/</guid><description>&lt;h2 id="project-overview"&gt;Project Overview&lt;/h2&gt;
-&lt;p&gt;An AI-powered development assistant that provides intelligent code suggestions, refactoring recommendations, and helps developers navigate large codebases.&lt;/p&gt;
-&lt;h3 id="features"&gt;Features&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Context-aware code completion&lt;/li&gt;
-&lt;li&gt;Automated refactoring suggestions&lt;/li&gt;
-&lt;li&gt;Code quality analysis&lt;/li&gt;
-&lt;li&gt;Natural language code search&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id="technology-stack"&gt;Technology Stack&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Python for core functionality&lt;/li&gt;
-&lt;li&gt;Transformer models for code understanding&lt;/li&gt;
-&lt;li&gt;LangChain for AI orchestration&lt;/li&gt;
-&lt;li&gt;VS Code extension for IDE integration&lt;/li&gt;
 &lt;/ul&gt;</description></item><item><title>Containerized GNOME</title><link>https://portfolio.ramkrishna.me/projects/containerized-gnome/</link><pubDate>Thu, 16 Oct 2025 00:00:00 +0000</pubDate><guid>https://portfolio.ramkrishna.me/projects/containerized-gnome/</guid><description>&lt;h2 id="project-overview"&gt;Project Overview&lt;/h2&gt;
 &lt;p&gt;This project is currently not active as GNOME OS still needs some work
 that will make this more interesting. But this is a technology preview
