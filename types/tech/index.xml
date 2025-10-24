@@ -1,4 +1,29 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tech on Sri's Portfolio</title><link>https://portfolio.ramkrishna.me/types/tech/</link><description>Recent content in Tech on Sri's Portfolio</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 16 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://portfolio.ramkrishna.me/types/tech/index.xml" rel="self" type="application/rss+xml"/><item><title>AI-Powered Development Assistant</title><link>https://portfolio.ramkrishna.me/projects/ai-assistant/</link><pubDate>Thu, 16 Oct 2025 00:00:00 +0000</pubDate><guid>https://portfolio.ramkrishna.me/projects/ai-assistant/</guid><description>&lt;h2 id="project-overview"&gt;Project Overview&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tech on Sri's Portfolio</title><link>https://portfolio.ramkrishna.me/types/tech/</link><description>Recent content in Tech on Sri's Portfolio</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 23 Oct 2025 20:39:56 -0700</lastBuildDate><atom:link href="https://portfolio.ramkrishna.me/types/tech/index.xml" rel="self" type="application/rss+xml"/><item><title>Ratatoskr MCP Server</title><link>https://portfolio.ramkrishna.me/projects/ratatoskr-mcp-server/</link><pubDate>Thu, 23 Oct 2025 20:39:56 -0700</pubDate><guid>https://portfolio.ramkrishna.me/projects/ratatoskr-mcp-server/</guid><description>&lt;h2 id="project-overview"&gt;Project Overview&lt;/h2&gt;
+&lt;p&gt;MCP Server for GNOME integration, providing access to GNOME desktop information and system details via the Model Context Protocol.&lt;/p&gt;
+&lt;h3 id="key-points"&gt;Key Points&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Explore MCP tooling possibilities with the GNOME destop. Using DBus, the MCP server is able to query and set values. An LLM will be able to for instance know what wifi networks are available and be able to determine which is the safest one.&lt;/li&gt;
+&lt;li&gt;Use the MCP server to start various sessions. For instance, the MCP server can set up the a desktop session to have everything ready to code a project. It could even change the lights.&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="impact"&gt;Impact&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Show the viability of the GNOME in the AI world.&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Hugin MCP Client</title><link>https://portfolio.ramkrishna.me/projects/hugin-mcp-client/</link><pubDate>Thu, 23 Oct 2025 20:39:52 -0700</pubDate><guid>https://portfolio.ramkrishna.me/projects/hugin-mcp-client/</guid><description>&lt;h2 id="project-overview"&gt;Project Overview&lt;/h2&gt;
+&lt;p&gt;The MCP client is used as a way to test ratatoskr mcp server. Both
+projects serve as a way to enable an AI PC idea to connect an LLM to
+do useful tasks on a laptop or desktop. Hugin supports both a local LLM
+and Claude. Optimizing the local LLM usecase will be priority.&lt;/p&gt;
+&lt;h3 id="key-points"&gt;Key points&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Build a Linux based &amp;ldquo;AI PC&amp;rdquo; on the GNOME desktop&lt;/li&gt;
+&lt;li&gt;Use the MCP client as a way to test the MCP server to try doing tooling requests.&lt;/li&gt;
+&lt;li&gt;Show the viabilty of doing AI on the Linux platform.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="impact"&gt;Impact&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Show usefulness of an AI workflow on Linux&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>AI-Powered Development Assistant</title><link>https://portfolio.ramkrishna.me/projects/ai-assistant/</link><pubDate>Thu, 16 Oct 2025 00:00:00 +0000</pubDate><guid>https://portfolio.ramkrishna.me/projects/ai-assistant/</guid><description>&lt;h2 id="project-overview"&gt;Project Overview&lt;/h2&gt;
 &lt;p&gt;An AI-powered development assistant that provides intelligent code suggestions, refactoring recommendations, and helps developers navigate large codebases.&lt;/p&gt;
 &lt;h3 id="features"&gt;Features&lt;/h3&gt;
 &lt;ul&gt;
@@ -13,4 +38,26 @@
 &lt;li&gt;Transformer models for code understanding&lt;/li&gt;
 &lt;li&gt;LangChain for AI orchestration&lt;/li&gt;
 &lt;li&gt;VS Code extension for IDE integration&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Containerized GNOME</title><link>https://portfolio.ramkrishna.me/projects/containerized-gnome/</link><pubDate>Thu, 16 Oct 2025 00:00:00 +0000</pubDate><guid>https://portfolio.ramkrishna.me/projects/containerized-gnome/</guid><description>&lt;h2 id="project-overview"&gt;Project Overview&lt;/h2&gt;
+&lt;p&gt;This project is currently not active as GNOME OS still needs some work
+that will make this more interesting. But this is a technology preview
+to see if we can run GNOME in a container under kubernetes and be able
+to support wide scaling.&lt;/p&gt;
+&lt;h3 id="features"&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Run GNOME OS in a container and deploy to thousands of instances.&lt;/li&gt;
+&lt;li&gt;Run applicatons in a GNOME OS containers as a &amp;lsquo;meta app container&amp;rsquo;.&lt;/li&gt;
+&lt;li&gt;Q&amp;amp;A extensions in a robust manner using openQA.&lt;/li&gt;
+&lt;li&gt;Be able to test all extensions based on a tag in GNOME Shell.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="technology-stack"&gt;Technology Stack&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Podman + systemd support&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://os.gnome.org"&gt;GNOME OS&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;systemd-sysupdate&lt;/li&gt;
+&lt;li&gt;systemd-homed&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://buildstream.build/index.html"&gt;Buildstream&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description></item></channel></rss>

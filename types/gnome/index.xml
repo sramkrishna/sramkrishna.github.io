@@ -1,4 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gnome on Sri's Portfolio</title><link>https://portfolio.ramkrishna.me/types/gnome/</link><description>Recent content in Gnome on Sri's Portfolio</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 20 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://portfolio.ramkrishna.me/types/gnome/index.xml" rel="self" type="application/rss+xml"/><item><title>GNOME Engagement Team</title><link>https://portfolio.ramkrishna.me/projects/sample-project/</link><pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate><guid>https://portfolio.ramkrishna.me/projects/sample-project/</guid><description>&lt;h2 id="project-overview"&gt;Project Overview&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gnome on Sri's Portfolio</title><link>https://portfolio.ramkrishna.me/types/gnome/</link><description>Recent content in Gnome on Sri's Portfolio</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 20 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://portfolio.ramkrishna.me/types/gnome/index.xml" rel="self" type="application/rss+xml"/><item><title>GNOME Engagement Team</title><link>https://portfolio.ramkrishna.me/projects/gnome-engagement-team/</link><pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate><guid>https://portfolio.ramkrishna.me/projects/gnome-engagement-team/</guid><description>&lt;h2 id="project-overview"&gt;Project Overview&lt;/h2&gt;
+&lt;p&gt;Leading the GNOME Engagement Team involves coordinating various community initiatives, helping organizing events, engaging with social media, and fostering relationships with contributors worldwide.&lt;/p&gt;
+&lt;h3 id="key-responsibilities"&gt;Key Responsibilities&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Coordinating community outreach programs&lt;/li&gt;
+&lt;li&gt;Managing contributor onboarding processes&lt;/li&gt;
+&lt;li&gt;Developing engagement strategies&lt;/li&gt;
+&lt;li&gt;Educating the public on GNOME technologies&lt;/li&gt;
+&lt;li&gt;Build rapport with users around the world through local community ambassadors&lt;/li&gt;
+&lt;li&gt;Mediate disputes/issues/communications within GNOME project issues&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="my-responsibilities"&gt;My responsibilities&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Lead the engagement team, and specificaly the &amp;ldquo;hospitality&amp;rdquo; team.
+&lt;ul&gt;
+&lt;li&gt;That manages the contributor process&lt;/li&gt;
+&lt;li&gt;Create material for the team to use in social media&lt;/li&gt;
+&lt;li&gt;Mediate issues within the project.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>GNOME Engagement Team</title><link>https://portfolio.ramkrishna.me/projects/sample-project/</link><pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate><guid>https://portfolio.ramkrishna.me/projects/sample-project/</guid><description>&lt;h2 id="project-overview"&gt;Project Overview&lt;/h2&gt;
 &lt;p&gt;Managing the GNOME Engagement Team involves coordinating various community initiatives, organizing events, and fostering relationships with contributors worldwide.&lt;/p&gt;
 &lt;h3 id="key-responsibilities"&gt;Key Responsibilities&lt;/h3&gt;
 &lt;ul&gt;
@@ -13,7 +33,7 @@
 &lt;li&gt;Successfully organized 3 major community events&lt;/li&gt;
 &lt;li&gt;Established mentorship programs for new contributors&lt;/li&gt;
 &lt;/ul&gt;</description></item><item><title>GNOME Internship Programs</title><link>https://portfolio.ramkrishna.me/projects/gnome-internship/</link><pubDate>Sat, 18 Oct 2025 00:00:00 +0000</pubDate><guid>https://portfolio.ramkrishna.me/projects/gnome-internship/</guid><description>&lt;h2 id="program-overview"&gt;Program Overview&lt;/h2&gt;
-&lt;p&gt;Coordinating GNOME&amp;rsquo;s participation in major internship programs, connecting aspiring contributors with mentors and meaningful projects.&lt;/p&gt;
+&lt;p&gt;Coordinating GNOME&amp;rsquo;s participation in outreachy and Google Summer of Code internship programs, connecting aspiring contributors with mentors and meaningful projects.&lt;/p&gt;
 &lt;h3 id="key-activities"&gt;Key Activities&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Recruiting and onboarding mentors&lt;/li&gt;
@@ -23,21 +43,16 @@
 &lt;/ul&gt;
 &lt;h3 id="impact"&gt;Impact&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Mentored 15+ interns across multiple programs&lt;/li&gt;
-&lt;li&gt;Established sustainable mentorship framework&lt;/li&gt;
-&lt;li&gt;Improved intern retention and continuation as contributors&lt;/li&gt;
+&lt;li&gt;Approved projects that GNOME will spend $5k per internship 2x YoY.&lt;/li&gt;
+&lt;li&gt;Coordinated with the board to approve internships&lt;/li&gt;
+&lt;li&gt;Improved the internship experience and reduce mentorship burnout&lt;/li&gt;
 &lt;/ul&gt;</description></item><item><title>GNOME Foundation Fundraising</title><link>https://portfolio.ramkrishna.me/projects/gnome-fundraising/</link><pubDate>Fri, 17 Oct 2025 00:00:00 +0000</pubDate><guid>https://portfolio.ramkrishna.me/projects/gnome-fundraising/</guid><description>&lt;h2 id="project-overview"&gt;Project Overview&lt;/h2&gt;
 &lt;p&gt;Supporting the GNOME Foundation&amp;rsquo;s fundraising efforts through campaign coordination, donor outreach, and community engagement.&lt;/p&gt;
 &lt;h3 id="responsibilities"&gt;Responsibilities&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Coordinating annual fundraising campaigns&lt;/li&gt;
-&lt;li&gt;Managing donor communications and recognition&lt;/li&gt;
-&lt;li&gt;Creating fundraising materials and messaging&lt;/li&gt;
-&lt;li&gt;Organizing fundraising events&lt;/li&gt;
+&lt;li&gt;Coordinating fundraising campaigns.&lt;/li&gt;
+&lt;li&gt;anaging donor communications and recognition.&lt;/li&gt;
+&lt;li&gt;Creating fundraising materials and messaging in collaboration with the design and web teams.&lt;/li&gt;
+&lt;li&gt;Work with the board to coordinate what areas need to be effectively fundraise.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="achievements"&gt;Achievements&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Contributed to successful annual fundraising campaigns&lt;/li&gt;
-&lt;li&gt;Developed donor engagement strategies&lt;/li&gt;
-&lt;li&gt;Strengthened relationships with corporate sponsors&lt;/li&gt;
-&lt;/ul&gt;</description></item></channel></rss>
+&lt;h3 id="achievements"&gt;Achievements&lt;/h3&gt;</description></item></channel></rss>
