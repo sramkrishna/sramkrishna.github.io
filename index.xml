@@ -1,22 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on Sri's Portfolio</title><link>https://portfolio.ramkrishna.me/</link><description>Recent content in Home on Sri's Portfolio</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 24 Oct 2025 13:51:10 -0700</lastBuildDate><atom:link href="https://portfolio.ramkrishna.me/index.xml" rel="self" type="application/rss+xml"/><item><title>Linux App Summit 2025</title><link>https://portfolio.ramkrishna.me/projects/linux-app-summit-2025/</link><pubDate>Fri, 24 Oct 2025 13:51:10 -0700</pubDate><guid>https://portfolio.ramkrishna.me/projects/linux-app-summit-2025/</guid><description>&lt;h2 id="project-overview"&gt;Project Overview&lt;/h2&gt;
-&lt;p&gt;Linux App Summit is a pure community conference focused on encouraging
-developing apps on Linux. It brings together software engineers,
-designers, Linux distributions, and ecosystem maintainers to help
-educate, influence, and drive apps to app stores like FlatHub and the
-Snap Store. By building a robust ecosystem, we can build sustainable
-open source models that reward developers for their work.&lt;/p&gt;
-&lt;p&gt;Brief overview of the project.&lt;/p&gt;
-&lt;h3 id="key-responsibilities"&gt;Key Responsibilities&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id="impact"&gt;Impact&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>Ratatoskr MCP Server</title><link>https://portfolio.ramkrishna.me/projects/ratatoskr-mcp-server/</link><pubDate>Thu, 23 Oct 2025 20:39:56 -0700</pubDate><guid>https://portfolio.ramkrishna.me/projects/ratatoskr-mcp-server/</guid><description>&lt;h2 id="project-overview"&gt;Project Overview&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on Sri's Portfolio</title><link>https://portfolio.ramkrishna.me/</link><description>Recent content in Home on Sri's Portfolio</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 23 Oct 2025 20:39:56 -0700</lastBuildDate><atom:link href="https://portfolio.ramkrishna.me/index.xml" rel="self" type="application/rss+xml"/><item><title>Ratatoskr MCP Server</title><link>https://portfolio.ramkrishna.me/projects/ratatoskr-mcp-server/</link><pubDate>Thu, 23 Oct 2025 20:39:56 -0700</pubDate><guid>https://portfolio.ramkrishna.me/projects/ratatoskr-mcp-server/</guid><description>&lt;h2 id="project-overview"&gt;Project Overview&lt;/h2&gt;
 &lt;p&gt;MCP Server for GNOME integration, providing access to GNOME desktop information and system details via the Model Context Protocol.&lt;/p&gt;
 &lt;h3 id="key-points"&gt;Key Points&lt;/h3&gt;
 &lt;ul&gt;
@@ -108,7 +90,25 @@ to support wide scaling.&lt;/p&gt;
 &lt;li&gt;&lt;a href="https://buildstream.build/index.html"&gt;Buildstream&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description></item><item><title>UXL Developer Summit 2025 hosted by UXL Foundation, Sept 17, 2025</title><link>https://portfolio.ramkrishna.me/projects/uxl-dev-summit-2025/</link><pubDate>Wed, 17 Sep 2025 00:00:00 +0000</pubDate><guid>https://portfolio.ramkrishna.me/projects/uxl-dev-summit-2025/</guid><description>&lt;h2 id="conference-overview"&gt;Conference Overview&lt;/h2&gt;
 &lt;p&gt;The UXL DevSummit is a conference brand I created and managed during my tenure at Intel Corporation. The event&amp;rsquo;s format centers on community-driven content (80%), featuring developers and practitioners demonstrating their work with the oneAPI specification through live demos and technical talks, showcasing the ecosystem&amp;rsquo;s viability and real-world applications.&lt;/p&gt;
-&lt;p&gt;I developed the event playbook and served as Master of Ceremonies for this half-day summit, providing the run of show and executive oversight while a contractor handled day-to-day execution. I managed the live online conference, lending my voice and presence to create an engaging experience for attendees.&lt;/p&gt;</description></item><item><title>AI-Enhanced Developer Productivity</title><link>https://portfolio.ramkrishna.me/talks/ai-developer-productivity/</link><pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate><guid>https://portfolio.ramkrishna.me/talks/ai-developer-productivity/</guid><description>&lt;h2 id="abstract"&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;I developed the event playbook and served as Master of Ceremonies for this half-day summit, providing the run of show and executive oversight while a contractor handled day-to-day execution. I managed the live online conference, lending my voice and presence to create an engaging experience for attendees.&lt;/p&gt;</description></item><item><title>Linux App Summit 2025</title><link>https://portfolio.ramkrishna.me/projects/linux-app-summit-2025/</link><pubDate>Fri, 25 Apr 2025 00:00:00 +0000</pubDate><guid>https://portfolio.ramkrishna.me/projects/linux-app-summit-2025/</guid><description>&lt;h2 id="project-overview"&gt;Project Overview&lt;/h2&gt;
+&lt;p&gt;Linux App Summit is a pure community conference focused on encouraging
+developing apps on Linux. It brings together software engineers,
+designers, Linux distributions, and ecosystem maintainers to help
+educate, influence, and drive apps to app stores like FlatHub and the
+Snap Store. By building a robust ecosystem, we can build sustainable
+open source models that reward developers for their work.&lt;/p&gt;
+&lt;p&gt;Brief overview of the project.&lt;/p&gt;
+&lt;h3 id="key-responsibilities"&gt;Key Responsibilities&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="impact"&gt;Impact&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>AI-Enhanced Developer Productivity</title><link>https://portfolio.ramkrishna.me/talks/ai-developer-productivity/</link><pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate><guid>https://portfolio.ramkrishna.me/talks/ai-developer-productivity/</guid><description>&lt;h2 id="abstract"&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;Exploring the latest developments in AI-powered development tools and their impact on developer workflows, from code completion to automated testing.&lt;/p&gt;
 &lt;h3 id="key-points"&gt;Key Points&lt;/h3&gt;
 &lt;ul&gt;
@@ -141,15 +141,7 @@ the published agenda. However, video recordings are available.&lt;/p&gt;
 this conference.&lt;/p&gt;</description></item><item><title>Linux App Summit 2025 CfP is Open!</title><link>https://portfolio.ramkrishna.me/blog-posts/2025-02-03-linux-app-summit-2025-cfp-is-open-2ade03f3/</link><pubDate>Mon, 03 Feb 2025 05:25:07 +0000</pubDate><guid>https://portfolio.ramkrishna.me/blog-posts/2025-02-03-linux-app-summit-2025-cfp-is-open-2ade03f3/</guid><description>&lt;p&gt;It's that time again, and we are in our 7th year doing this conference (if you include LAS GNOME).&lt;/p&gt;
 &lt;p&gt;This year, LAS will be held in Tirana, Albania and we are going all out this year to make it the best conference representing apps on Linux.&lt;/p&gt;
 &lt;p&gt;For those who don't know or have not heard of Linux App Summit, the idea is to have desktops work together to help enable application developers to build apps on the Linux platform. It's a parallel effort to the Flathub and Snapstore app stores.&lt;/p&gt;</description></item><item><title>Linux App Summit 2025 – Call for Papers Open Now</title><link>https://portfolio.ramkrishna.me/blog-posts/2025-02-03-linux-app-summit-2025--call-for-papers-open-now-877ff598/</link><pubDate>Mon, 03 Feb 2025 05:15:58 +0000</pubDate><guid>https://portfolio.ramkrishna.me/blog-posts/2025-02-03-linux-app-summit-2025--call-for-papers-open-now-877ff598/</guid><description>&lt;p&gt;It’s that time again, and we are in our 7th year doing this conference (if you include LAS GNOME). This year, LAS will be held in Tirana, Albania and we are going all out this year to make it the best conference representing apps on Linux. For those who don’t know or have not heard … &lt;a class="more-link" href="https://blogs.gnome.org/sri/2025/02/03/linux-app-summit-2025-call-for-papers-open-now/"&gt;Continue reading &lt;span class="screen-reader-text"&gt;Linux App Summit 2025 – Call for Papers Open Now&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://blogs.gnome.org/sri/2025/02/03/linux-app-summit-2025-call-for-papers-open-now/"&gt;Read full post on GNOME Blog&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Building Sustainable Open Source Communities</title><link>https://portfolio.ramkrishna.me/talks/opensource-community-building/</link><pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate><guid>https://portfolio.ramkrishna.me/talks/opensource-community-building/</guid><description>&lt;h2 id="talk-overview"&gt;Talk Overview&lt;/h2&gt;
-&lt;p&gt;This talk explores proven strategies for building and maintaining healthy open source communities, drawing from experiences with GNOME and other projects.&lt;/p&gt;
-&lt;h3 id="topics-covered"&gt;Topics Covered&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Creating welcoming onboarding experiences&lt;/li&gt;
-&lt;li&gt;Establishing sustainable governance models&lt;/li&gt;
-&lt;li&gt;Balancing contributor needs with project goals&lt;/li&gt;
-&lt;li&gt;Measuring community health and engagement&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>oneAPI DevSummit Hosted by UXL Foundation 2024, Oct 9-10, 2024</title><link>https://portfolio.ramkrishna.me/projects/oneapi-devsummit-2024/</link><pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate><guid>https://portfolio.ramkrishna.me/projects/oneapi-devsummit-2024/</guid><description>&lt;h2 id="event-overview"&gt;Event Overview&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://blogs.gnome.org/sri/2025/02/03/linux-app-summit-2025-call-for-papers-open-now/"&gt;Read full post on GNOME Blog&lt;/a&gt;&lt;/p&gt;</description></item><item><title>oneAPI DevSummit Hosted by UXL Foundation 2024, Oct 9-10, 2024</title><link>https://portfolio.ramkrishna.me/projects/oneapi-devsummit-2024/</link><pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate><guid>https://portfolio.ramkrishna.me/projects/oneapi-devsummit-2024/</guid><description>&lt;h2 id="event-overview"&gt;Event Overview&lt;/h2&gt;
 &lt;p&gt;Leading the organization of a multi-day virtual technology conference
 featuring keynotes, workshops, and networking opportunities over 300+
 attendees. The event was considered a big success despite the challenge of
@@ -179,28 +171,7 @@ designers, Linux distributions, and ecosystem maintainers to help
 educate, influence, and drive apps to app stores like FlatHub and the
 Snap Store. By building a robust ecosystem, we can build sustainable
 open source models that reward developers for their work.&lt;/p&gt;
-&lt;p&gt;Linux App Summit is two days of talks in a hybrid format.&lt;/p&gt;</description></item><item><title>Effective Tech Event Management in the Hybrid Era</title><link>https://portfolio.ramkrishna.me/talks/effective-event-management/</link><pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate><guid>https://portfolio.ramkrishna.me/talks/effective-event-management/</guid><description>&lt;h2 id="talk-summary"&gt;Talk Summary&lt;/h2&gt;
-&lt;p&gt;Shared insights from organizing large-scale hybrid technology events, covering logistics, engagement strategies, and lessons learned.&lt;/p&gt;
-&lt;h3 id="topics-discussed"&gt;Topics Discussed&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Planning hybrid events that work for all attendees&lt;/li&gt;
-&lt;li&gt;Technology stack for hybrid conferences&lt;/li&gt;
-&lt;li&gt;Keeping virtual attendees engaged&lt;/li&gt;
-&lt;li&gt;Post-event community building&lt;/li&gt;
-&lt;li&gt;Budget management and sponsorship strategies&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id="audience-feedback"&gt;Audience Feedback&lt;/h3&gt;
-&lt;p&gt;Received excellent feedback with attendees praising the practical, actionable advice.&lt;/p&gt;</description></item><item><title>Growing the Next Generation: GNOME Internship Programs</title><link>https://portfolio.ramkrishna.me/talks/gnome-internship-programs/</link><pubDate>Mon, 22 Jul 2024 00:00:00 +0000</pubDate><guid>https://portfolio.ramkrishna.me/talks/gnome-internship-programs/</guid><description>&lt;h2 id="overview"&gt;Overview&lt;/h2&gt;
-&lt;p&gt;Presented insights from managing GNOME&amp;rsquo;s participation in Outreachy and Google Summer of Code, highlighting success stories and lessons learned.&lt;/p&gt;
-&lt;h3 id="key-takeaways"&gt;Key Takeaways&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Structuring effective mentorship programs&lt;/li&gt;
-&lt;li&gt;Creating beginner-friendly project ideas&lt;/li&gt;
-&lt;li&gt;Supporting interns throughout their journey&lt;/li&gt;
-&lt;li&gt;Converting interns to long-term contributors&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id="impact"&gt;Impact&lt;/h3&gt;
-&lt;p&gt;The talk was well-received by the GNOME community and sparked discussions about improving our internship programs.&lt;/p&gt;</description></item><item><title>Looking forward to 2024!</title><link>https://portfolio.ramkrishna.me/blog-posts/2023-12-22-looking-forward-to-2024-2faea2a1/</link><pubDate>Fri, 22 Dec 2023 06:16:33 +0000</pubDate><guid>https://portfolio.ramkrishna.me/blog-posts/2023-12-22-looking-forward-to-2024-2faea2a1/</guid><description>&lt;h2&gt;
+&lt;p&gt;Linux App Summit is two days of talks in a hybrid format.&lt;/p&gt;</description></item><item><title>Looking forward to 2024!</title><link>https://portfolio.ramkrishna.me/blog-posts/2023-12-22-looking-forward-to-2024-2faea2a1/</link><pubDate>Fri, 22 Dec 2023 06:16:33 +0000</pubDate><guid>https://portfolio.ramkrishna.me/blog-posts/2023-12-22-looking-forward-to-2024-2faea2a1/</guid><description>&lt;h2&gt;
 &lt;p&gt;Looking forward to next year!&lt;/p&gt;
 &lt;/h2&gt;
 &lt;p&gt;This is my end-of-the year post as we all make our way into the New Year. &lt;/p&gt;

@@ -1,22 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Projects on Sri's Portfolio</title><link>https://portfolio.ramkrishna.me/projects/</link><description>Recent content in Projects on Sri's Portfolio</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 24 Oct 2025 13:51:10 -0700</lastBuildDate><atom:link href="https://portfolio.ramkrishna.me/projects/index.xml" rel="self" type="application/rss+xml"/><item><title>Linux App Summit 2025</title><link>https://portfolio.ramkrishna.me/projects/linux-app-summit-2025/</link><pubDate>Fri, 24 Oct 2025 13:51:10 -0700</pubDate><guid>https://portfolio.ramkrishna.me/projects/linux-app-summit-2025/</guid><description>&lt;h2 id="project-overview"&gt;Project Overview&lt;/h2&gt;
-&lt;p&gt;Linux App Summit is a pure community conference focused on encouraging
-developing apps on Linux. It brings together software engineers,
-designers, Linux distributions, and ecosystem maintainers to help
-educate, influence, and drive apps to app stores like FlatHub and the
-Snap Store. By building a robust ecosystem, we can build sustainable
-open source models that reward developers for their work.&lt;/p&gt;
-&lt;p&gt;Brief overview of the project.&lt;/p&gt;
-&lt;h3 id="key-responsibilities"&gt;Key Responsibilities&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id="impact"&gt;Impact&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>Ratatoskr MCP Server</title><link>https://portfolio.ramkrishna.me/projects/ratatoskr-mcp-server/</link><pubDate>Thu, 23 Oct 2025 20:39:56 -0700</pubDate><guid>https://portfolio.ramkrishna.me/projects/ratatoskr-mcp-server/</guid><description>&lt;h2 id="project-overview"&gt;Project Overview&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Projects on Sri's Portfolio</title><link>https://portfolio.ramkrishna.me/projects/</link><description>Recent content in Projects on Sri's Portfolio</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 23 Oct 2025 20:39:56 -0700</lastBuildDate><atom:link href="https://portfolio.ramkrishna.me/projects/index.xml" rel="self" type="application/rss+xml"/><item><title>Ratatoskr MCP Server</title><link>https://portfolio.ramkrishna.me/projects/ratatoskr-mcp-server/</link><pubDate>Thu, 23 Oct 2025 20:39:56 -0700</pubDate><guid>https://portfolio.ramkrishna.me/projects/ratatoskr-mcp-server/</guid><description>&lt;h2 id="project-overview"&gt;Project Overview&lt;/h2&gt;
 &lt;p&gt;MCP Server for GNOME integration, providing access to GNOME desktop information and system details via the Model Context Protocol.&lt;/p&gt;
 &lt;h3 id="key-points"&gt;Key Points&lt;/h3&gt;
 &lt;ul&gt;
@@ -108,7 +90,25 @@ to support wide scaling.&lt;/p&gt;
 &lt;li&gt;&lt;a href="https://buildstream.build/index.html"&gt;Buildstream&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description></item><item><title>UXL Developer Summit 2025 hosted by UXL Foundation, Sept 17, 2025</title><link>https://portfolio.ramkrishna.me/projects/uxl-dev-summit-2025/</link><pubDate>Wed, 17 Sep 2025 00:00:00 +0000</pubDate><guid>https://portfolio.ramkrishna.me/projects/uxl-dev-summit-2025/</guid><description>&lt;h2 id="conference-overview"&gt;Conference Overview&lt;/h2&gt;
 &lt;p&gt;The UXL DevSummit is a conference brand I created and managed during my tenure at Intel Corporation. The event&amp;rsquo;s format centers on community-driven content (80%), featuring developers and practitioners demonstrating their work with the oneAPI specification through live demos and technical talks, showcasing the ecosystem&amp;rsquo;s viability and real-world applications.&lt;/p&gt;
-&lt;p&gt;I developed the event playbook and served as Master of Ceremonies for this half-day summit, providing the run of show and executive oversight while a contractor handled day-to-day execution. I managed the live online conference, lending my voice and presence to create an engaging experience for attendees.&lt;/p&gt;</description></item><item><title>Intel AI Summit 2025</title><link>https://portfolio.ramkrishna.me/projects/intel-ai-summit-2025/</link><pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate><guid>https://portfolio.ramkrishna.me/projects/intel-ai-summit-2025/</guid><description>&lt;h2 id="conference-overview"&gt;Conference Overview&lt;/h2&gt;
+&lt;p&gt;I developed the event playbook and served as Master of Ceremonies for this half-day summit, providing the run of show and executive oversight while a contractor handled day-to-day execution. I managed the live online conference, lending my voice and presence to create an engaging experience for attendees.&lt;/p&gt;</description></item><item><title>Linux App Summit 2025</title><link>https://portfolio.ramkrishna.me/projects/linux-app-summit-2025/</link><pubDate>Fri, 25 Apr 2025 00:00:00 +0000</pubDate><guid>https://portfolio.ramkrishna.me/projects/linux-app-summit-2025/</guid><description>&lt;h2 id="project-overview"&gt;Project Overview&lt;/h2&gt;
+&lt;p&gt;Linux App Summit is a pure community conference focused on encouraging
+developing apps on Linux. It brings together software engineers,
+designers, Linux distributions, and ecosystem maintainers to help
+educate, influence, and drive apps to app stores like FlatHub and the
+Snap Store. By building a robust ecosystem, we can build sustainable
+open source models that reward developers for their work.&lt;/p&gt;
+&lt;p&gt;Brief overview of the project.&lt;/p&gt;
+&lt;h3 id="key-responsibilities"&gt;Key Responsibilities&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="impact"&gt;Impact&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Intel AI Summit 2025</title><link>https://portfolio.ramkrishna.me/projects/intel-ai-summit-2025/</link><pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate><guid>https://portfolio.ramkrishna.me/projects/intel-ai-summit-2025/</guid><description>&lt;h2 id="conference-overview"&gt;Conference Overview&lt;/h2&gt;
 &lt;p&gt;Two-day AI focused developer summit focused on AI using Intel
 technologies. Unfortunately, with Intel laying off the developer relations
 team and the associated web team, there is no longer a specific link to
