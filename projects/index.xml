@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Projects on Sri's Portfolio</title><link>https://portfolio.ramkrishna.me/projects/</link><description>Recent content in Projects on Sri's Portfolio</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 24 Oct 2025 11:44:58 -0700</lastBuildDate><atom:link href="https://portfolio.ramkrishna.me/projects/index.xml" rel="self" type="application/rss+xml"/><item><title>UXL Developer Summit 2025 hosted by UXL Foundation, Sept 17, 2025</title><link>https://portfolio.ramkrishna.me/projects/uxl-dev-summit-2025/</link><pubDate>Fri, 24 Oct 2025 11:44:58 -0700</pubDate><guid>https://portfolio.ramkrishna.me/projects/uxl-dev-summit-2025/</guid><description>&lt;h2 id="conference-overview"&gt;Conference Overview&lt;/h2&gt;
-&lt;p&gt;The UXL DevSummit is a conference brand I created and managed during my tenure at Intel Corporation. The event&amp;rsquo;s format centers on community-driven content (80%), featuring developers and practitioners demonstrating their work with the oneAPI specification through live demos and technical talks, showcasing the ecosystem&amp;rsquo;s viability and real-world applications.&lt;/p&gt;
-&lt;p&gt;I developed the event playbook and served as Master of Ceremonies for this half-day summit, providing the run of show and executive oversight while a contractor handled day-to-day execution. I managed the live online conference, lending my voice and presence to create an engaging experience for attendees.&lt;/p&gt;</description></item><item><title>Ratatoskr MCP Server</title><link>https://portfolio.ramkrishna.me/projects/ratatoskr-mcp-server/</link><pubDate>Thu, 23 Oct 2025 20:39:56 -0700</pubDate><guid>https://portfolio.ramkrishna.me/projects/ratatoskr-mcp-server/</guid><description>&lt;h2 id="project-overview"&gt;Project Overview&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Projects on Sri's Portfolio</title><link>https://portfolio.ramkrishna.me/projects/</link><description>Recent content in Projects on Sri's Portfolio</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 23 Oct 2025 20:39:56 -0700</lastBuildDate><atom:link href="https://portfolio.ramkrishna.me/projects/index.xml" rel="self" type="application/rss+xml"/><item><title>Ratatoskr MCP Server</title><link>https://portfolio.ramkrishna.me/projects/ratatoskr-mcp-server/</link><pubDate>Thu, 23 Oct 2025 20:39:56 -0700</pubDate><guid>https://portfolio.ramkrishna.me/projects/ratatoskr-mcp-server/</guid><description>&lt;h2 id="project-overview"&gt;Project Overview&lt;/h2&gt;
 &lt;p&gt;MCP Server for GNOME integration, providing access to GNOME desktop information and system details via the Model Context Protocol.&lt;/p&gt;
 &lt;h3 id="key-points"&gt;Key Points&lt;/h3&gt;
 &lt;ul&gt;
@@ -119,7 +117,49 @@ to support wide scaling.&lt;/p&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;a href="https://buildstream.build/index.html"&gt;Buildstream&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>oneAPI DevSummit Hosted by UXL Foundation 2024, Oct 9-10, 2024</title><link>https://portfolio.ramkrishna.me/projects/oneapi-devsummit-2024/</link><pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate><guid>https://portfolio.ramkrishna.me/projects/oneapi-devsummit-2024/</guid><description>&lt;h2 id="event-overview"&gt;Event Overview&lt;/h2&gt;
+&lt;/ul&gt;</description></item><item><title>Tech Conference 2025</title><link>https://portfolio.ramkrishna.me/projects/conference-2025/</link><pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate><guid>https://portfolio.ramkrishna.me/projects/conference-2025/</guid><description>&lt;h2 id="event-overview"&gt;Event Overview&lt;/h2&gt;
+&lt;p&gt;Leading the organization of a multi-day technology conference featuring keynotes, workshops, and networking opportunities for 500+ attendees.&lt;/p&gt;
+&lt;h3 id="responsibilities"&gt;Responsibilities&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Program committee and speaker selection&lt;/li&gt;
+&lt;li&gt;Venue coordination and logistics&lt;/li&gt;
+&lt;li&gt;Sponsor relations and fundraising&lt;/li&gt;
+&lt;li&gt;Volunteer management&lt;/li&gt;
+&lt;li&gt;Marketing and communications&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="event-details"&gt;Event Details&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;500+ expected attendees&lt;/li&gt;
+&lt;li&gt;3 days of sessions and workshops&lt;/li&gt;
+&lt;li&gt;30+ speakers from around the world&lt;/li&gt;
+&lt;li&gt;Hybrid format with virtual attendance option&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="goals"&gt;Goals&lt;/h3&gt;
+&lt;p&gt;Creating an inclusive, engaging event that strengthens our technology community and provides valuable learning opportunities.&lt;/p&gt;</description></item><item><title>UXL Developer Summit 2025 hosted by UXL Foundation, Sept 17, 2025</title><link>https://portfolio.ramkrishna.me/projects/uxl-dev-summit-2025/</link><pubDate>Wed, 17 Sep 2025 00:00:00 +0000</pubDate><guid>https://portfolio.ramkrishna.me/projects/uxl-dev-summit-2025/</guid><description>&lt;h2 id="conference-overview"&gt;Conference Overview&lt;/h2&gt;
+&lt;p&gt;The UXL DevSummit is a conference brand I created and managed during my tenure at Intel Corporation. The event&amp;rsquo;s format centers on community-driven content (80%), featuring developers and practitioners demonstrating their work with the oneAPI specification through live demos and technical talks, showcasing the ecosystem&amp;rsquo;s viability and real-world applications.&lt;/p&gt;
+&lt;p&gt;I developed the event playbook and served as Master of Ceremonies for this half-day summit, providing the run of show and executive oversight while a contractor handled day-to-day execution. I managed the live online conference, lending my voice and presence to create an engaging experience for attendees.&lt;/p&gt;</description></item><item><title>Intel AI Summit 2025</title><link>https://portfolio.ramkrishna.me/projects/intel-ai-summit-2025/</link><pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate><guid>https://portfolio.ramkrishna.me/projects/intel-ai-summit-2025/</guid><description>&lt;h2 id="conference-overview"&gt;Conference Overview&lt;/h2&gt;
+&lt;p&gt;Two-day AI focused developer summit focused on AI using Intel
+technologies. Unfortunately, with Intel laying off the developer relations
+team and the associated web team, there is no longer a specific link to
+the published agenda. However, video recordings are available.&lt;/p&gt;
+&lt;h3 id="key-responsibilities"&gt;Key Responsibilities&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Co-hosted and served as Master of Ceremonies for both days&lt;/li&gt;
+&lt;li&gt;Opened and closed sessions with Susan Kahler&lt;/li&gt;
+&lt;li&gt;Participated as speaker in &amp;ldquo;Simplifying Generative AI App Development: Standardization Matters&amp;rdquo; session&lt;/li&gt;
+&lt;li&gt;Created run of show script&lt;/li&gt;
+&lt;li&gt;Managed every aspect of this conference&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="impact"&gt;Impact&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Two-day comprehensive AI developer conference&lt;/li&gt;
+&lt;li&gt;Featured 20+ technical sessions covering LLM deployment, RAG applications, AI PC development, and hands-on workshops&lt;/li&gt;
+&lt;li&gt;Brought together industry experts, researchers, and practitioners from diverse organizations&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="video-replay"&gt;Video replay&lt;/h2&gt;
+&lt;p&gt;Click on the video replay button and then on the right sidebar click on
+&amp;ldquo;From the series&amp;rdquo; and you should be able to get msot of content from
+this conference.&lt;/p&gt;</description></item><item><title>oneAPI DevSummit Hosted by UXL Foundation 2024, Oct 9-10, 2024</title><link>https://portfolio.ramkrishna.me/projects/oneapi-devsummit-2024/</link><pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate><guid>https://portfolio.ramkrishna.me/projects/oneapi-devsummit-2024/</guid><description>&lt;h2 id="event-overview"&gt;Event Overview&lt;/h2&gt;
 &lt;p&gt;Leading the organization of a multi-day virtual technology conference
 featuring keynotes, workshops, and networking opportunities over 300+
 attendees. The event was considered a big success despite the challenge of
@@ -142,44 +182,4 @@ to an industry conference with all new software tools.&lt;/p&gt;
 &lt;li&gt;35+ speakers from around the world&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id="goals"&gt;Goals&lt;/h3&gt;
-&lt;p&gt;Creating an inclusive, engaging event that strengthens our technology community and provides valuable learning opportunities.&lt;/p&gt;</description></item><item><title>Tech Conference 2025</title><link>https://portfolio.ramkrishna.me/projects/conference-2025/</link><pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate><guid>https://portfolio.ramkrishna.me/projects/conference-2025/</guid><description>&lt;h2 id="event-overview"&gt;Event Overview&lt;/h2&gt;
-&lt;p&gt;Leading the organization of a multi-day technology conference featuring keynotes, workshops, and networking opportunities for 500+ attendees.&lt;/p&gt;
-&lt;h3 id="responsibilities"&gt;Responsibilities&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Program committee and speaker selection&lt;/li&gt;
-&lt;li&gt;Venue coordination and logistics&lt;/li&gt;
-&lt;li&gt;Sponsor relations and fundraising&lt;/li&gt;
-&lt;li&gt;Volunteer management&lt;/li&gt;
-&lt;li&gt;Marketing and communications&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id="event-details"&gt;Event Details&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;500+ expected attendees&lt;/li&gt;
-&lt;li&gt;3 days of sessions and workshops&lt;/li&gt;
-&lt;li&gt;30+ speakers from around the world&lt;/li&gt;
-&lt;li&gt;Hybrid format with virtual attendance option&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id="goals"&gt;Goals&lt;/h3&gt;
-&lt;p&gt;Creating an inclusive, engaging event that strengthens our technology community and provides valuable learning opportunities.&lt;/p&gt;</description></item><item><title>Intel AI Summit 2025</title><link>https://portfolio.ramkrishna.me/projects/intel-ai-summit-2025/</link><pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate><guid>https://portfolio.ramkrishna.me/projects/intel-ai-summit-2025/</guid><description>&lt;h2 id="conference-overview"&gt;Conference Overview&lt;/h2&gt;
-&lt;p&gt;Two-day AI focused developer summit focused on AI using Intel
-technologies. Unfortunately, with Intel laying off the developer relations
-team and the associated web team, there is no longer a specific link to
-the published agenda. However, video recordings are available.&lt;/p&gt;
-&lt;h3 id="key-responsibilities"&gt;Key Responsibilities&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Co-hosted and served as Master of Ceremonies for both days&lt;/li&gt;
-&lt;li&gt;Opened and closed sessions with Susan Kahler&lt;/li&gt;
-&lt;li&gt;Participated as speaker in &amp;ldquo;Simplifying Generative AI App Development: Standardization Matters&amp;rdquo; session&lt;/li&gt;
-&lt;li&gt;Created run of show script&lt;/li&gt;
-&lt;li&gt;Managed every aspect of this conference&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id="impact"&gt;Impact&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Two-day comprehensive AI developer conference&lt;/li&gt;
-&lt;li&gt;Featured 20+ technical sessions covering LLM deployment, RAG applications, AI PC development, and hands-on workshops&lt;/li&gt;
-&lt;li&gt;Brought together industry experts, researchers, and practitioners from diverse organizations&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id="video-replay"&gt;Video replay&lt;/h2&gt;
-&lt;p&gt;Click on the video replay button and then on the right sidebar click on
-&amp;ldquo;From the series&amp;rdquo; and you should be able to get msot of content from
-this conference.&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;Creating an inclusive, engaging event that strengthens our technology community and provides valuable learning opportunities.&lt;/p&gt;</description></item></channel></rss>
