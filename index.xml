@@ -123,8 +123,8 @@ and Claude. Optimizing the local LLM usecase will be priority.&lt;/p&gt;
 &lt;li&gt;&lt;strong&gt;Mentorship&lt;/strong&gt; — mentoring those driving the fundraising work&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Board perspective&lt;/strong&gt; — helping coordinate which areas need effective fundraising, from the board&amp;rsquo;s vantage point&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="note"&gt;Note&lt;/h3&gt;
-&lt;p&gt;Current focus area alongside board service — the day-to-day campaign execution is led by others; my contribution is strategic and advisory.&lt;/p&gt;</description></item><item><title>Containerized GNOME</title><link>https://portfolio.ramkrishna.me/projects/containerized-gnome/</link><pubDate>Thu, 16 Oct 2025 00:00:00 +0000</pubDate><guid>https://portfolio.ramkrishna.me/projects/containerized-gnome/</guid><description>&lt;h2 id="project-overview"&gt;Project Overview&lt;/h2&gt;
+&lt;h3 id="why-the-board-run"&gt;Why the Board Run&lt;/h3&gt;
+&lt;p&gt;A key motivation for running for the board was gaining &lt;strong&gt;financial oversight&lt;/strong&gt; — the fundraising work had no direct access to the foundation&amp;rsquo;s finances, making it hard to ground fundraising strategy in real numbers. Board service provides that oversight and the ability to connect fundraising to the organization&amp;rsquo;s actual financial picture.&lt;/p&gt;</description></item><item><title>Containerized GNOME</title><link>https://portfolio.ramkrishna.me/projects/containerized-gnome/</link><pubDate>Thu, 16 Oct 2025 00:00:00 +0000</pubDate><guid>https://portfolio.ramkrishna.me/projects/containerized-gnome/</guid><description>&lt;h2 id="project-overview"&gt;Project Overview&lt;/h2&gt;
 &lt;p&gt;This project is currently not active as GNOME OS still needs some work
 that will make this more interesting. But this is a technology preview
 to see if we can run GNOME in a container under kubernetes and be able
